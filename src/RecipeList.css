@@ -1,0 +1,5 @@
+[name="create"] tbody,
+.recipe-row:nth-child(odd)
+{
+    background-color: #fff0c7;
+}

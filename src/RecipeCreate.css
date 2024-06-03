@@ -1,0 +1,5 @@
+.small-width input,
+.small-width button,
+.large-width textarea{
+    width: 100%;
+}
